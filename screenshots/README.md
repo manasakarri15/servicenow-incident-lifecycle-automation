@@ -22,8 +22,10 @@ Use the following file names so the evidence matches the project phases:
 16. `16-create-knowledge.png` — Create Knowledge dialog with IT Knowledge Base and Standard template.
 17. `17-final-validation.png` — Final Related Records / Activity / SLA validation.
 
-## How to add the screenshots
+## Latest evidence batch
 
-Open this GitHub repository, open the `screenshots` folder, choose **Add file → Upload files**, select the captured PNG/JPG files, and commit the changes.
+The latest ServiceNow screenshots supplied for the project cover Network assignment, Incident Overview, On Hold/Awaiting Change, parent-child incident linking, Cause, Resolution, and the Resolve dialog. The exact mapping is documented in `Documentation/Submission-Evidence.md`.
 
-Do not upload passwords, tokens, private account information, or unrelated screenshots.
+## Upload rules
+
+Keep the original PNG/JPG screenshots in this folder. Do not upload passwords, tokens, private account information, or unrelated screenshots.
