@@ -19,7 +19,19 @@ Use the following file names so the evidence matches the project phases:
 13. `13-cause.png` — Probable Cause: PowerEdge service was suspended and required restart.
 14. `14-resolution.png` — Resolution code and resolution notes.
 15. `15-resolve-dialog.png` — Resolve confirmation dialog.
-16. `16-create-knowledge.png` — Create Knowledge dialog with IT Knowledge Base and Standard template.
+16. `16-crea<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/eeef3e38-ac8f-4db5-a745-0a03060e0b22" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/feac542e-15c0-4082-a095-d436c3348aa6" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/a3460cf1-78f8-4fdb-acb3-6f47a2dbbbc8" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/f79c9712-1e9a-4819-9d03-3143b5b253ef" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/41bdf6fb-e2a9-442b-92ac-7f3916c62827" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/fd7a6c15-ad02-410b-ae79-19002449a8e6" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/318e7ad8-b003-48ad-aaca-e68db7f710c2" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/d57904c9-9cb8-4b9c-8bf9-7169e4ac542a" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/afcfef87-157c-4f5c-9e5f-341971f5c165" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/3ef6d09f-8f1e-4533-a567-44079a758c52" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b63c79ee-0a8c-4547-a506-fc66ddd35b12" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/743a0173-494f-47b7-9953-73ff23f70be3" />
+te-knowledge.png` — Create Knowledge dialog with IT Knowledge Base and Standard template.
 17. `17-final-validation.png` — Final Related Records / Activity / SLA validation.
 
 ## Latest evidence batch
